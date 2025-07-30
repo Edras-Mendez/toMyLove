@@ -1,0 +1,27 @@
+.containerLove{
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin-top: -315px;
+}
+
+.Img-love{
+  position: relative;
+  z-index: 2000;
+  width: 300px;
+  display: block;width: 300px;
+  height: auto;
+  margin-bottom: 0px;
+}
+
+.pasto{
+  position: absolute;
+  width: 100vw;
+  height: 50px;
+  background-color: #151e2c;
+  z-index: 2000;
+  margin-bottom: -279px;
+}
