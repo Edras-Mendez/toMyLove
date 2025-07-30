@@ -76,7 +76,7 @@ const TypewriterMessage = () => {
     }, 100);
 
     return () => clearInterval(interval);
-  }, []);
+  }, [message]);
 
   const handlePlayAudio = () => {
     audio.play();
