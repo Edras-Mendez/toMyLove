@@ -81,7 +81,7 @@ export default function Letter() {
           Ahora que ya llevamos 30 días como novios, ¡me encanta lo que hemos construido en tan poco tiempo!
           Esa confianza de contarnos todo, de hablar sin filtros, es una de las cosas que más valoro.
           Gracias por dejarme ser parte de tu vida.
-          Y aunque por ahora nuestra relación sea a distancia, sé que llegará el momento en que pueda decirte “buenos días” o “buenas noches” sin tener que agarrar el celular... porque estarás a mi lado.
+          Y aunque por ahora nuestra relación sea a distancia, sé que llegará el momento en que pueda decirte “buenos días” o “buenas noches” sin tener que agarrar el celular, porque estarás a mi lado.
 
           Gracias por darme una felicidad que no puedo explicar.
           Tú cambiaste mi forma de ver la vida.
@@ -90,11 +90,11 @@ export default function Letter() {
 
           Mi conejita guerrera, me enseñaste a ser insistente.
           A ver los obstáculos como retos, no como muros.
-          Me has ayudado a superar muchas cosas, y por eso siempre te he admirado… y te seguiré admirando, porque nunca dejas de impresionarme.
+          Me has ayudado a superar muchas cosas, y por eso siempre te he admirado, y te seguiré admirando, porque nunca dejas de impresionarme.
 
           Eres todo lo que siempre soñé.
           Me encanta todo de ti.
-          Cada vez que me mandas audios… los escucho hasta 20 veces, solo para volver a oír tu voz. Lo sé, suena obsesivo… pero es que ya te lo dije: eres mi obsesión más hermosa.
+          Cada vez que me mandas audios, los escucho hasta 20 veces, solo para volver a oír tu voz. Lo sé, suena obsesivo, pero es que ya te lo dije: eres mi obsesión más hermosa.
 
           Me gusta hablar contigo todos los días, porque es mi momento favorito del día.
           Me siento cómodo, me haces bien.
@@ -103,7 +103,7 @@ export default function Letter() {
           Quiero aprovechar cada minuto contigo para enamorarte más, porque yo ya perdí el juego de quién se enamora primero.
           Y aunque ya estoy profundamente enamorado, me sigo enamorando todos los días.
 
-          Mi venganza será que tú también te enamores cada día de mí, hasta llegar al punto en que mi opinión, mi presencia, mi amor… se vuelvan valiosos para ti.
+          Mi venganza será que tú también te enamores cada día de mí, hasta llegar al punto en que mi opinión, mi presencia, mi amor, se vuelvan valiosos para ti.
 
           No planeo algo temporal contigo.
           Yo planeo algo que dure para siempre.
@@ -131,7 +131,7 @@ export default function Letter() {
           Te amo💘.
           Eres lo mejor que me ha pasado en la vida.
           Eres mi conejita preciosa,
-          Y quiero que seas toda mía…
+          Y quiero que seas toda mía.
           <br />
           ¡Te amooooooooooo! ❤️🐰😍
 
