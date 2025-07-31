@@ -101,20 +101,20 @@ export default function Letter() {
           A veces te espero con ansias solo para hablar por las noches, aunque eso signifique dormir tarde. Porque cuando hablo contigo, el tiempo se va volando y siempre deseo que dure más.
 
           Quiero aprovechar cada minuto contigo para enamorarte más, porque yo ya perdí el juego de quién se enamora primero.
-          Y aunque ya estoy profundamente enamorado… me sigo enamorando todos los días.
+          Y aunque ya estoy profundamente enamorado, me sigo enamorando todos los días.
 
           Mi venganza será que tú también te enamores cada día de mí, hasta llegar al punto en que mi opinión, mi presencia, mi amor… se vuelvan valiosos para ti.
 
           No planeo algo temporal contigo.
           Yo planeo algo que dure para siempre.
 
-          A veces me distraigo en el trabajo solo por imaginar cómo será nuestro futuro juntos… y sí, a veces me regañan por eso, pero ¿cómo les explico que estoy pensando en la mujer que más quiero en este mundo?
+          A veces me distraigo en el trabajo solo por imaginar cómo será nuestro futuro juntos, y sí, a veces me regañan por eso, pero ¿cómo les explico que estoy pensando en la mujer que más quiero en este mundo?
 
           Tus ojos me hipnotizan.
           Cuando veo tus fotos, me pierdo en ellos.
-          Tu rostro… es la belleza más perfecta que existe.
-          Tu cabello… sueño con acariciarlo.
-          Tu cuerpo… deseo abrazarte, llenarte de besos todo el día si fuera posible.
+          Tu rostro, es la belleza más perfecta que existe.
+          Tu cabello, sueño con acariciarlo.
+          Tu cuerpo, deseo abrazarte, llenarte de besos todo el día si fuera posible.
 
           Cuando escucho tu voz, no hay música, melodía ni canción que se compare.
           Tu voz tan tierna me hace querer escucharla todo el día.
@@ -125,20 +125,19 @@ export default function Letter() {
 
           Aunque por ahora la distancia nos separe, nada impedirá que esté aquí para ti.
           Porque mi mayor razón es verte feliz, verte sonreír, verte cumplir tus sueños.
-
-          y bueno he estado esperando el momento de poder decirte el más grande “te quiero”.
+          <br />
+          y bueno he estado esperando el momento de poder decirte el más grande “te quiero”,
           Pero hoy, con más confianza y seguridad que nunca, te digo:
-
           Te amo💘.
           Eres lo mejor que me ha pasado en la vida.
           Eres mi conejita preciosa,
           Y quiero que seas toda mía…
-
+          <br />
           ¡Te amooooooooooo! ❤️🐰😍
 
         <br />
         <br />
-        <p>Att.: Tu pollito 🐣</p>
+        <p>Atte.: Tu pollito 🐣</p>
 
         <button className='btn btn-outline-primary' onClick={handleClickFireworks}>quieres ver algo mas
           preciona? Click aqui 😁!
