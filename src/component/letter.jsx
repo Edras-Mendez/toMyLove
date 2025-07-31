@@ -126,10 +126,10 @@ export default function Letter() {
           Aunque por ahora la distancia nos separe, nada impedirá que esté aquí para ti.
           Porque mi mayor razón es verte feliz, verte sonreír, verte cumplir tus sueños.
 
-          I’m just Adam, esperando el momento de poder decirte el más grande “te quiero”.
+          y bueno he estado esperando el momento de poder decirte el más grande “te quiero”.
           Pero hoy, con más confianza y seguridad que nunca, te digo:
 
-          Te amo.
+          Te amo💘.
           Eres lo mejor que me ha pasado en la vida.
           Eres mi conejita preciosa,
           Y quiero que seas toda mía…
