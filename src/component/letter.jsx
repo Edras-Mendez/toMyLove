@@ -76,7 +76,7 @@ export default function Letter() {
 
           Cuando noté que coincidíamos en tantas cosas, no soportaba la idea de que alguien más te tuviera. Por eso, cuando me declaré, lo hice con el corazón decidido, para que nadie más pudiera obtener ese tesoro tan valioso que había encontrado en ti.
 
-          Cuando me dijiste que sí… esa noche no pude dormir. Mi mente no dejaba de pensar en ti. Aquel “sí” expandió mi mundo, me abrió posibilidades que nunca imaginé. A pesar del poco tiempo que llevábamos conversando, sentía que te conocía de mucho antes.
+          Cuando me dijiste que sí, esa noche no pude dormir. Mi mente no dejaba de pensar en ti. Aquel “sí” expandió mi mundo, me abrió posibilidades que nunca imaginé. A pesar del poco tiempo que llevábamos conversando, sentía que te conocía de mucho antes.
 
           Ahora que ya llevamos 30 días como novios, ¡me encanta lo que hemos construido en tan poco tiempo!
           Esa confianza de contarnos todo, de hablar sin filtros, es una de las cosas que más valoro.
