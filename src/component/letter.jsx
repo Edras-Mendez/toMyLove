@@ -137,7 +137,7 @@ export default function Letter() {
 
         <br />
         <br />
-        <p>Atte.: Tu pollito 🐣</p>
+        <p>Atte.: Tu Gordito 🐣</p>
 
         <button className='btn btn-outline-primary' onClick={handleClickFireworks}>quieres ver algo mas
           preciona? Click aqui 😁!
